@@ -1,5 +1,5 @@
 git first time test
 git second time test
 git third time test
-
-
+git checkout -- file
+git is changed
