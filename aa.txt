@@ -3,3 +3,4 @@ git second time test
 git third time test
 git checkout -- file
 git is changed
+ok?
